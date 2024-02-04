@@ -17,4 +17,4 @@ spec:
           image: asbcbabu/docsample # Image that will be used to the containers in the cluster
           imagePullPolicy: IfNotPresent
           ports:
-            - containerPort:8080  # Thw port the container is running on the cluster
+            - containerPort: 8080  # Thw port the container is running on the cluster
